@@ -1,0 +1,3 @@
+import ExpendingActivityIndicatorComponent from './ExpendingActivityIndicatorComponent';
+
+export default ExpendingActivityIndicatorComponent;
