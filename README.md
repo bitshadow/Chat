@@ -1,4 +1,4 @@
-# Hoopsapp Chat
+# React Native Realtime Chat with Firebase
 
 1. Unzip the source code
 2. $ cd HoopsappChat
