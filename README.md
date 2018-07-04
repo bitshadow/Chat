@@ -7,9 +7,11 @@
 5. `$ yarn install`
 
 To run the iOS application, use the following command:
+
 6. Run `$ react-native run-ios`
 
 To run the Android application, use this command:
+
 7. Run `$ react-native run-android`
 
 
